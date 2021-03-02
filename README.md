@@ -12,6 +12,8 @@ I wrote this on a single weekend. This is only a proof of concept and has probab
 
 ## Try it yourself
 
+	apt install php-cgi #The command php-cgi has to be available!
+	
 	git clone https://github.com/nemiah/phpOverWebsocket.git
 	cd phpOverWebsocket
 	#download composer…
